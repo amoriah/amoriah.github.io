@@ -8,12 +8,12 @@
 
 ### Some facts about me
 
-- I have been studying programming since October 2021 at School 21(Ecole 42).
-- I started studying C and C++ languages, and ultimately decided to develop as a front-end developer.
-- I have experience working as a developer at SberDevices, where I interned from February to August 2023.
-- For five years I worked as a teacher of Solfeggio and Musical Literature at a music school.
-- I love to run and am learning to knit.
-- I am responsible and communicative.
+1. I have been studying programming since October 2021 at School 21(Ecole 42).
+2. I started studying C and C++ languages, and ultimately decided to develop as a front-end developer.
+3. I have experience working as a developer at SberDevices, where I interned from February to August 2023.
+4. For five years I worked as a teacher of Solfeggio and Musical Literature at a music school.
+5. I love to run and am learning to knit.
+6. I am responsible and communicative.
 
 ### My knowledge in web development
 * JavaScript
