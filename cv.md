@@ -1,6 +1,6 @@
 ## Yana Onoyko
 
-### You can contact me:
+### You can contact me
 * **Telegram:** [@onoyana](https://t.me/onoyana)
 * **E-mail:** yonoyko@bk.ru
 * **Phone:** +7 (982) 135-90-59
@@ -37,7 +37,7 @@
 * React: [Pokemons app][10], [Stopwatch][12], [Todo][11] 
 * JavaScript: [Calculator][13], [Choose-the-colors][14]
 
-### Projects for _School 21_: 
+### Projects for _School 21_
 * Projects in C: [libft][1], [push_swap][2], [ft_printf][3], [pipex][4], [get_next_line][5].
 * Projects in C++: [CPP_Piscine][6].
 * Work with SHELl: [born2beRoot][7].
