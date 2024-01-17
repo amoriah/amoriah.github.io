@@ -42,10 +42,6 @@
 * Projects in C++: [CPP_Piscine][6].
 * Work with SHELl: [born2beRoot][7].
 
-### Lenguages:
-* English Level (test from www.efset.org): Intermediate
-* Russian: Native
-
 <!---
 ### JavaScript course:
 [Stepik certificate](https://stepik.org/cert/1548544)
